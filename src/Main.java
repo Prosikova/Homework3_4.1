@@ -1,6 +1,6 @@
 public class Main {
     public static void main(String[] args) {
-int cars = 210;
+        int cars = 210;
         System.out.println("Значение переменной " + "cars " + "с типом " + "int " + "равно " + cars);
         byte roomsHouse = 4;
         System.out.println("Значение переменной " + "roomsHouse " + "с типом " + "byte " + "равно " + roomsHouse);
